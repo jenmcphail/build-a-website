@@ -1,0 +1,90 @@
+html, body { margin: 0px; padding: 0px; border: 0px; }
+
+
+header{
+     text-align: center;
+     background: url("http://www.hdbloggers.net/wp-content/uploads/2016/01/Background.png");
+     background-size: cover;
+     color: #7A378B;
+     padding: 60px 30px 60px 30px;
+     margin: 0px;
+   }
+
+ 
+#nav-bar li{
+    padding: 0px 30px 0px 30px;
+    font-family: Tahoma;
+    font-size: 20px;
+ 	display: inline;
+ }
+
+h1{
+	font-family: Verdana;
+	font-size: 50px;
+	padding: 20px;
+}
+
+.center-body img {
+	border-radius: 25px;
+	width:300px;
+	height: 300px;
+
+}
+
+.resume img{
+	align-content: center;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+body {
+    background-color: #D3E2EF;
+    margin: 0px;
+}
+
+ul {
+	font-family: Tahoma;
+	font-size: 15px;
+}
+
+a:link {
+    color: #7A378B; 
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: white;
+
+}
+
+.center-body{
+	clear: both;
+	width: 400px;
+	font-family: Tahoma;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+.titles{
+	font-family: Tahoma;
+	font-size: 25px;
+	font-style: bold;
+}
+
+.resume{
+	padding: 10px;
+	margin: 10px 30px 10px 135px;
+	width: 1000px;
+}
+
+.body-text{
+	font-family: Tahoma;
+	font-size: 15px;
+}
+
+#tagline{
+	font-family: cursive;
+	font-size: 25px;
+}
+
